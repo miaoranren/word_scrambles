@@ -1,0 +1,10 @@
+const greeting = 'Hello';
+console.log(greeting)
+
+
+let str = 'Hello there!'
+const words = str.split(' ');
+console.log(words)
+
+console.log(words.join());
+Hello,there!
